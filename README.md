@@ -36,3 +36,4 @@ cd -P  # is useful for changing to the physical directory and avoiding the symbo
 {Example}
 ln -s raja nishant
 cd -P nishant  # take you to raja
+
